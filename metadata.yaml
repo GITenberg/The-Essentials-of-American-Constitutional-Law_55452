@@ -1,11 +1,16 @@
 _repo: The-Essentials-of-American-Constitutional-Law_55452
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55452-h/images/cover.jpg
 creator:
   author:
     agent_name: Thorpe, Francis Newton
     gutenberg_agent_id: '48344'
     url: http://www.gutenberg.org/2009/agents/48344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55452#The-Essentials-of-American-Constitutional-Law
 gutenberg_issued: '2017-08-28'
 gutenberg_type: Text
 identifiers:
